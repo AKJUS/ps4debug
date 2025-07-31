@@ -13,7 +13,7 @@
 
 This is a debugger for the PlayStation 4. Yes thats right! Look around and you will find some very useful tools online or on the PS4 Source Discord channel. Anything is possible, except kernel mode debugging, which I decided to leave out.
 
-Latest version: `v1.1.17`
+Latest version: `v1.1.18`
 
 Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt).
 
@@ -33,10 +33,12 @@ I am going to try to give you a little rundown on how to use ps4debug....
   - Firmware supported: (*) means untested
     - `5.05`, `5.07`,
     - `6.71`, `6.72`,
-    - `7.02`, `7.50`, `7.51`, `7.55`,
-    - `9.00`, `9.60`,
-    - `10.00`, `10.01`, `10.50`, `10.51`, `10.70`(*), `10.71`(*),
-    - `11.00`.
+    - `7.00`, `7.01`, `7.02`, `7.50`, `7.51`, `7.55`,
+    - `8.00`, `8.01`, `8.03`, `8.50`, `8.52`,
+    - `9.00`, `9.03`, `9.04`, `9.50`, `9.51`, `9.60`,
+    - `10.00`, `10.01`, `10.50`, `10.51`, `10.70`, `10.71`,
+    - `11.00`, `11.02`, `11.50`, `11.52`,
+    - `12.00`, `12.02`,
   - Rest mode support.
   - Console scanner.
 
@@ -80,6 +82,7 @@ Greeting to other devs: (alphabetical order)
 
 Greeting to QA/Testers: (alphabetical order)
 - [Big_Wadger](https://twitter.com/big_wadger)
+- [DrYenyen](https://github.com/DrYenyen)
 - [Echo Stretch](https://twitter.com/StretchEcho)
 - [Hejran7](https://www.youtube.com/@BabaAlloush)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
@@ -96,4 +99,5 @@ Greeting to QA/Testers: (alphabetical order)
   - Added support for 10.50, 10.51, 10.70 and 10.71
   - Fixed loading with latest GoldHEN.
   - Implemented hardware breakpoints.
-
+- v1.1.18
+  - Add support for more firmwares between `5.05` and `12.01`
