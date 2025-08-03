@@ -85,6 +85,7 @@ Greeting to QA/Testers: (alphabetical order)
 - [DrYenyen](https://github.com/DrYenyen)
 - [Echo Stretch](https://twitter.com/StretchEcho)
 - [Hejran7](https://www.youtube.com/@BabaAlloush)
+- [n0llpointer](https://github.com/n0llptr)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
 
 ### Changelog:
