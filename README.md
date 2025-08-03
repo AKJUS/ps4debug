@@ -100,4 +100,4 @@ Greeting to QA/Testers: (alphabetical order)
   - Fixed loading with latest GoldHEN.
   - Implemented hardware breakpoints.
 - v1.1.18
-  - Add support for more firmwares between `5.05` and `12.01`
+  - Add support for more firmwares between `5.05` and `12.02`
