@@ -13,7 +13,7 @@
 
 This is a debugger for the PlayStation 4. Yes thats right! Look around and you will find some very useful tools online or on the PS4 Source Discord channel. Anything is possible, except kernel mode debugging, which I decided to leave out.
 
-Latest version: `v1.1.18`
+Latest version: `v1.1.19`
 
 Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt).
 
